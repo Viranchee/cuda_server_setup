@@ -6,3 +6,5 @@ if ! command -v fish &> /dev/null; then
 fi
 
 exec fish
+
+# TODO: Sync fish config and setup from my dotfiles repo.
