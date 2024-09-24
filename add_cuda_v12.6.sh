@@ -28,4 +28,4 @@ fi
 
 # NVIDIA Driver
 sudo apt-get install -y nvidia-open
-sudo apt-get install -y cuda-drivers
+# sudo apt-get install -y cuda-drivers
